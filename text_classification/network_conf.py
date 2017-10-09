@@ -17,7 +17,7 @@ def fc_net(dict_dim,
     define the topology of the dnn network
 
     :param dict_dim: size of word dictionary
-    :type input_dim: int
+    :type dict_dim: int
     :params class_num: number of instance class
     :type class_num: int
     :params emb_dim: embedding vector dimension
